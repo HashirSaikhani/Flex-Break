@@ -19,7 +19,7 @@ Here’s a sneak peek of the extension in action:
 ---
 
 ### 3. **Form Submission**
-![Form Submission Demo](Assets/FixGrandTotal.gif.gif)
+![Form Submission Demo](Assets/FixGrandTotal.gif)
 
 ---
 
