@@ -9,17 +9,17 @@
 Here’s a sneak peek of the extension in action:
 
 ### 1. **Installation**
-![Installation Demo](Assets/loadEx1.mov)
+![Installation Demo](Assets/loadEx1.gif)
 
 ---
 
 ### 2. **Real-Time Input Logging**
-![Input Logging Demo](Assets/loadEx1.mov)
+![Input Logging Demo](Assets/loadEx2.gif)
 
 ---
 
 ### 3. **Form Submission**
-![Form Submission Demo](Assets/loadEx1.mov)
+![Form Submission Demo](Assets/FixGrandTotal.gif.gif)
 
 ---
 
