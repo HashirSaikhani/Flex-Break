@@ -1,11 +1,12 @@
 # Flex-Break
 
-**MyBrowserExtension** is a Chrome extension that logs form input data in real-time and sends it to Google Sheets, simplifying data tracking and storage.
+**Flex-Break** is a Chrome extension designed to make navigating the Flex Student Portal more efficient. It allows you to:
+- View your Grand Total Marks with.
+- Calculate SGPA for the current semester.
+- Automatically update your CGPA.
+- Get Admit Card
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/HashirSaikhani/Flex-Break.git
-
+### **Download Zip File**
 
 ### **Installation**
 Goto > Open Google Chrome > Settings > Extensions
