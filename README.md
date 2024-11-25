@@ -1,4 +1,4 @@
-# MyBrowserExtension
+# Flex-Break
 
 **MyBrowserExtension** is a Chrome extension that logs form input data in real-time and sends it to Google Sheets, simplifying data tracking and storage.
 
