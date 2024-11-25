@@ -2,7 +2,10 @@
 
 **MyBrowserExtension** is a Chrome extension that logs form input data in real-time and sends it to Google Sheets, simplifying data tracking and storage.
 
----
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/my-browser-extension.git
+
 
 ## Demo
 
@@ -28,6 +31,3 @@ Here’s a sneak peek of the extension in action:
 
 Follow these steps to install and use the extension:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/my-browser-extension.git
