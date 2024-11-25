@@ -4,30 +4,34 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/my-browser-extension.git
+   git clone https://github.com/HashirSaikhani/Flex-Break.git
 
 
-## Demo
-
-Here’s a sneak peek of the extension in action:
-
-### 1. **Installation**
+### **Installation**
+Goto > Open Google Chrome > Settings > Extensions
 ![Installation Demo](Assets/loadEx1.gif)
 
 ---
 
-### 2. **Real-Time Input Logging**
+### **Turn-on Developer Mode**
+Goto > Toggle Developer_Mode > Load_unpacked > Select (Flex-Break main)
 ![Input Logging Demo](Assets/loadEx2.gif)
 
 ---
 
-### 3. **Form Submission**
+### **Grand Total**
+Open Marks Tab from Flex
+> Tap the Extension Button > Tap Flex-Break > Tap Fix Grand Total
 ![Form Submission Demo](Assets/FixGrandTotal.gif)
 
 ---
 
+### **GPA Calculator**
+Open Transcript Tab from Flex
+> Tap the Extension Button > Tap Flex-Break > Tap Fix Grand Total
+![Form Submission Demo](Assets/FixGPA.gif)
 
-## Installation
+---
 
-Follow these steps to install and use the extension:
-
+### **Admit Card**
+> Tap the Extension Button > Tap Flex-Break > Tap Get Admit Card
