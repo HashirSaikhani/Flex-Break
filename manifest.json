@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Flex-Break",
+  "description": "A Chrome Extension that will make Flex Portal better",
+  "version": "1.0",
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": [
+    "https://flexstudent.nu.edu.pk/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "image.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
