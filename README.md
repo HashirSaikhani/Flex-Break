@@ -4,7 +4,7 @@
 - View your Grand Total Marks with.
 - Calculate SGPA for the current semester.
 - Automatically update your CGPA.
-- Get Admit Card
+- Get Admit card
 
 ### **Download Zip File**
 
